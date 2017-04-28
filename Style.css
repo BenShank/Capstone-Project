@@ -35,5 +35,9 @@ p {
   font-family:sans-serif;
 }
 table, th, td {
-    border: 1px solid black;
+  border: 1px solid black; }
+  
+img { border-radius:15px;
+display:block;
+margin:auto;}
 
