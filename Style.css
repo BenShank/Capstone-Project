@@ -40,9 +40,7 @@ p {
 }
 table, th, td {
   border: 1px solid black;
-display:block;
-margin:auto;}
-  
+}
 img { border-radius:15px;
 display:block;
 margin:auto;}
